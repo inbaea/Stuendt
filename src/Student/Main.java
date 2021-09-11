@@ -12,7 +12,7 @@ public static void main(String args[]) {
 	Student s1 = new Student(101, "Kim", 23);
 	al.add(s1);
 	Student s2 = new Student(102, "Lee", 21);
-	al.add(s2);
+	al.add(s2);  
 	Student s3 = new Student(103, "Park", 25);
 	al.add(s3);
 	Student s4 = new Student(104, "Jung", 29);
